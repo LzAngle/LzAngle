@@ -182,12 +182,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-  <img align="center" src="/github-metrics.svg" alt="Metrics" />
+<!--   <img align="center" src="/github-metrics.svg" alt="Metrics" /> -->
 
  <picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake.svg">
-  <img align="center" src="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake.svg" alt="Snk" /> -->
+<!--   <img align="center" src="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake.svg" alt="Snk" /> -->
 </picture>
 
   
@@ -199,7 +199,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>
   <a href="https://gitee.com/LzAngle">
-    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=gitee" />
+    <img src="https://gitee.com/yin-lianghong" />
   </a>
 
 
@@ -208,7 +208,7 @@ Here are some ideas to get you started:
   </a>
      
    <a href="https://space.bilibili.com/2714954">
-    <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
+    <img src="https://space.bilibili.com/319741464?spm_id_from=333.788.0.0" />
   </a>
   </p>
 
