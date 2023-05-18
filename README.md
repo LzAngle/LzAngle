@@ -199,7 +199,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>
   <a href="https://blog.csdn.net/weixin_47627102?spm=1011.2415.3001.5343https://img.shields.io/badge/ForteSarlet-C71D23">
-    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=csdn" />
+    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=Csdn" />
   </a>  
 	  
   <a href="https://gitee.com/yin-lianghong">
