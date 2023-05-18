@@ -212,6 +212,6 @@ Here are some ideas to get you started:
   </a>
   </p>
 
-  <p><small><a href="2856479524@qq.com">Call Me♥</a></small></p>
+  <p><small><a href="mailto:2856479524@qq.com">Call Me♥</a></small></p>
 
 </div>
