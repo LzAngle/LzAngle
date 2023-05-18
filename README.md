@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
 
 
-<!-- <img align="right" src="[https://s1.ax1x.com/2020/09/10/wYQC6K.md.png](https://guli-file-lz.oss-cn-hangzhou.aliyuncs.com/avatar/teacher/WechatIMG12.jpeg)" alet="公众号" height="180" /> -->
+<!-- <img align="right" src="https://guli-file-lz.oss-cn-hangzhou.aliyuncs.com/avatar/teacher/WechatIMG12.jpeg" alet="公众号" height="180" /> -->
 
 
 <picture>
