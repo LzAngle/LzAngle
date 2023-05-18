@@ -198,8 +198,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>
-  <a href="https://gitee.com/LzAngle">
-    <img src="https://gitee.com/yin-lianghong" />
+  <a href="https://gitee.com/yin-lianghong">
+    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=gitee" />
   </a>
 
 
@@ -207,11 +207,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/ForteSarlet-181717?style=for-the-badge&logo=github" />
   </a>
      
-   <a href="https://space.bilibili.com/2714954">
-    <img src="https://space.bilibili.com/319741464?spm_id_from=333.788.0.0" />
+   <a href="https://space.bilibili.com/319741464?spm_id_from=333.788.0.0">
+    <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
   </a>
   </p>
 
-  <p><small><a href="mailto:LzAngle@163.com">Call Me♥</a></small></p>
+  <p><small><a href="2856479524@qq.com">Call Me♥</a></small></p>
 
 </div>
