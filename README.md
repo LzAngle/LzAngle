@@ -185,9 +185,9 @@ Here are some ideas to get you started:
   <img align="center" src="/github-metrics.svg" alt="Metrics" />
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake-dark.svg">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake.svg">
-  <img align="center" src="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake.svg" alt="Snk" />
+  <img align="center" src="https://raw.githubusercontent.com/LzAngle/LzAngle/output/snk/github-snake.svg" alt="Snk" /> -->
 </picture>
 
   
